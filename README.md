@@ -81,24 +81,6 @@ Dataset contains approximately **5,000+ records** including:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
-You can upload screenshots inside an **images** folder and display them like:
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
-
 ## 📁 Project Structure
 
 ```
